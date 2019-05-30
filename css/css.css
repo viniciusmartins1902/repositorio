@@ -1,0 +1,51 @@
+.form-row{
+    position: relative;
+    margin: 0 auto;
+}
+.botao{
+    display:block;
+} 
+.icone{
+    display: none;
+}
+.botao{
+    display: block;
+}
+.sumir{
+    display:none;
+}
+#menu{
+    width: 300px;
+}
+.col-2{
+    width: 80px;
+}
+.icone{
+    display: block;
+    width: 30px;
+    line-height: 80px;
+}
+.tab-pane{
+    margin-left:100px;
+}
+.imagem{
+    width: 200px;
+    height: 100px;
+
+}
+.cabecalho-erro{
+    background-color:red;
+    color: white;
+}
+.cabecalho-sucesso{
+    background-color:green;
+    color: white;
+}
+.cabecalho-info{
+    background-color:blue;
+    color: white;
+}
+#aviso{
+    display:none;
+    width:100%;
+}
